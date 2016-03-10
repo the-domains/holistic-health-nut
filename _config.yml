@@ -1,0 +1,28 @@
+name: Holistic Health Nut
+favicon: null
+layout_spectrum: 0.9709528633393347
+typography_spectrum: 0.14604775700718164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8938288311474025
+  lightness: 0.7055290499702096
+  saturation: 0.22768762288615108
+  rhythmicContrast: 0.5274272444657981
+purpose: []
